@@ -1,5 +1,5 @@
 # PRAVAAHTECH_SIH
-This is our first Git Repository.
+This is my first Git Repository.
 <br>
 Author - REJA TAUKIR
 
